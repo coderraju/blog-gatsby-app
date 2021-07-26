@@ -1,5 +1,5 @@
 import * as React from "react";
-import Layout from "../components/Layout";
+import Layout from "../components/layout";
 //https://webhook.gatsbyjs.com/hooks/data_source/9f79340b-3a62-4b81-b84e-2152ef78f995
 
 // markup
